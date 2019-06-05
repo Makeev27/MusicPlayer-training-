@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <color name="title_color">#F88715</color>
+</resources>
